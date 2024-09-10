@@ -1,0 +1,78 @@
+{
+    "studyNo": "ACZ885X2209",
+    "tmfSupport": null,
+    "fppDate": null,
+    "risDate": null,
+    "crisDate": null,
+    "fpfvDate": null,
+    "sivDate": null,
+    "lplvDate": null,
+    "siteCovDates": null,
+    "pubCsrDate": null,
+    "countryLplvDate": null,
+    "initialHqToc": null,
+    "createCsrTracker": null,
+    "hqCttTmf": null,
+    "createCToc": null,
+    "afterFppQcChecklist": null,
+    "initialSToc": null,
+    "updateCtocSiv": null,
+    "updateHqTocFpfv": null,
+    "createEtmf": null,
+    "updateCtocBetweenSiv": null,
+    "updateCtocBetweenLplv": null,
+    "updateStocSiv": null,
+    "updateStocLplv": null,
+    "updateHqTocBetweenFpfv": null,
+    "updateHqTocBetweenLplv": null,
+    "yearlyQcChecklist": null,
+    "updateStocCov": null,
+    "qcGapAnalysis": null,
+    "updateCtocLplv": null,
+    "updateHqTocLplv": null,
+    "beforeCsrQcChecklist": null,
+    "updateHqTocBeforeCsr": null,
+    "updateCtocBeforeCsr": null,
+    "updateStocBeforeCsr": null,
+    "finalizeHqToc": null,
+    "submitHqPTmf": null,
+    "finalizeCToc": null,
+    "submitPTmf": null,
+    "finalizeSToc": null,
+    "noCrediDocuments": null,
+    "noDoctoVTOC": null,
+    "uploadAoRs": null,
+    "beforeInitialFppComment1": null,
+    "beforeInitialFppComment2": null,
+    "afterInitialFppComment": null,
+    "beforeRisComment": null,
+    "countrySivComment": null,
+    "fpfvComment": null,
+    "commentBetweenSivLplv": null,
+    "commentBetweenFpLp": null,
+    "yearlyFromInitialComment": null,
+    "siteCoovComment": null,
+    "countryLplvComment": null,
+    "lplvComment": null,
+    "beforePubCsrComment": null,
+    "beforeCsrComment": null,
+    "afterPubCsrComment": null,
+    "afterCsrComment": null,
+    "ptmfSetup": null,
+    "ctemplateToc": null
+}
+
+
+Comments:['Set up HQ-TOC (With support from Study Lead)','If TMO/CPO support, TOC created by Country Monitoring Responsible']
+ Comments:['With support from Study Lead, CTT Members']
+ comments:['If TMO support, TOC created by Field Monitor']
+ comments:['If TMO support, TOC updated by Country Monitoring Responsible']
+  comments:['With support from Study Lead, CTT Members Ensure Feedback from line functions is available']
+  comments:['If TMO support, TOC updated by Country Monitoring Responsible, Field Monitor ']
+   comments:[]
+   comments:['With support from Study Lead, CTT Members']
+   comments:['COV Dates to be informed 4 weeks prior COV Field Monitor (TMo support)']
+    comments:['Country Monitoring Responsible (TMo support)']
+    comments:['']
+    Comments:['With support from Study Lead, CTT Members','Country Monitoring Responsible, Field Monitor (TMo support)  Study Lead (No TMo support)']
+     Comments:['If other Countries are involved, ensure their pTMF is archived or have a shipment date for their archival','Country Monitoring Responsible, Field Monitor (TMo support)']
